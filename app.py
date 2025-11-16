@@ -94,7 +94,7 @@ with st.container():
     col1, col2 = st.columns([1, 2])
 
     with col1:
-        image = Image.open("voice_ctrl.jpg")
+        image = Image.open("Voz.png")
         st.image(image, width=200)
 
     with col2:
